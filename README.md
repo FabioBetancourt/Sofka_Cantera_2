@@ -3,3 +3,4 @@ This is a repository for the Sofka company, i am a trainee and these are my proj
 
 
 - workshop 1 was held with the name "workshop1"
+-- in
